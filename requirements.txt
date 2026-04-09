@@ -8,3 +8,4 @@ fastapi
 uvicorn
 web3
 pydantic
+python-telegram-bot[job-queue]>=20.0
