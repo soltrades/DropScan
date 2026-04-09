@@ -1,0 +1,10 @@
+supabase
+httpx
+beautifulsoup4
+schedule
+python-dotenv
+lxml
+fastapi
+uvicorn
+web3
+pydantic
